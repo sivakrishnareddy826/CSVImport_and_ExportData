@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ExcelPractice/ExcelPractice/obj/Debug
+/ExcelPractice/ExcelPractice/bin/Debug
+/ExcelPractice/ExcelPractice/.vs
+/ExcelPractice/packages
+/.vs
+/ExcelPractice/.vs/ExcelPractice
